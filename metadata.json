@@ -1,0 +1,8 @@
+{
+  "name": "OSK Fisika 2026 — Master Momentum Linear (Mister Jo)",
+  "description": "Aplikasi pembelajaran dan latihan interaktif Olimpiade Sains Fisika Tingkat Kota (OSK) 2026 khusus penguasaan konsep Momentum Linear, Impuls, dan Hukum III Newton berdasarkan Soal Nomor 13 bersama Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
